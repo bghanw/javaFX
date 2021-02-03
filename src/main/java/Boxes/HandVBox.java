@@ -1,4 +1,4 @@
-package HandVBox;
+package Boxes;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
