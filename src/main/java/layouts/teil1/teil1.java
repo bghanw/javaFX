@@ -19,8 +19,8 @@ public class teil1 extends Application {
 
         //Title 1
         Text textTitle = new Text("Team Chat");
-        textTitle.setFont(Font.font("Helvetica", FontPosture.REGULAR, 20));
-        BorderPane.setMargin(textTitle, new Insets(0, 50, 25, 50));
+        textTitle.setFont(Font.font("Helvetica", FontPosture.REGULAR, 40));
+        BorderPane.setMargin(textTitle, new Insets(0, 100, 25, 100));
 
         //Chat und vbox
         Text firstChat = new Text("Tschou zäme");
